@@ -1,3 +1,8 @@
+![Svelte](https://img.shields.io/badge/Svelte-5-orange?logo=svelte)
+![SvelteKit](https://img.shields.io/badge/SvelteKit-2.0-blue?logo=svelte)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-4.0-38B2AC?logo=tailwindcss)
+![shadcn-svelte](https://img.shields.io/badge/shadcn--svelte-forms-green)
+
 ⚠️ **Warning**: This setup is not intended for development. It is an original setup from [shadcn-svelte installation guide](https://next.shadcn-svelte.com/docs/installation/sveltekit) that has been edited for test purposes and is therefore broken. Proceed with caution! ⚠️
 
 # Integrating Tailwind CSS 4.0 with shadcn-svelte Forms in an Existing Svelte 5 Project
